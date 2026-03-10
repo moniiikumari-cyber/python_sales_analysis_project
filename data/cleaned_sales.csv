@@ -1,0 +1,9 @@
+OrderID,Date,Product,Category,Price,Quantity,Total
+1,2024-01-01,Mobile A,Electronics,15000,2,30000
+2,2024-01-02,Laptop B,Electronics,55000,1,55000
+3,2024-01-03,Shirt C,Clothing,1200,4,4800
+4,2024-01-05,Shoes D,Footwear,2500,2,5000
+5,2024-01-06,Mobile A,Electronics,15000,1,15000
+6,2024-01-07,Watch X,Fashion,3000,1,3000
+7,2024-01-08,Laptop B,Electronics,55000,1,55000
+8,2024-01-10,Shirt C,Clothing,1200,3,3600
