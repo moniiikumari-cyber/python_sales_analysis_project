@@ -98,7 +98,3 @@ Build a web dashboard using Streamlit
 👩‍💻 Author
 
 Moni Kumari
-
-⭐ Complete Data Analyst portfolio
-
-Just tell me and I’ll guide you step by step.
